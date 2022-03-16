@@ -1,5 +1,5 @@
 # Medical Appointment No Shows Project
-This analysis is part of the Udacity Data Analysis Nanodegree program and aims to explore a dataset containing aproximately 100k medical appointments from the Brazilian public health system. It is basically divided into four sections: (1) Introduction, where the investigation problem is set and the dataset is described; (2) Data Wrangling, where the acquired data are cleaned and parsed; (3) Exploratory Data Analysis, in which some intuition about the data are built based on the found patterns; (4) Conclusion, where the found insights about the problem are reviewed and communicated.focused on the question of whether or not patients show up for their appointment.
+This analysis is part of the Udacity Data Analysis Nanodegree program and aims to explore a dataset containing aproximately 100k medical appointments from the Brazilian public health system. found insights about the problem are reviewed and communicated.focused on the question of whether or not patients show up for their appointment.
 
 ## Table of Contents
 - problem:- What is the problem we are facing?
