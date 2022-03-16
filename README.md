@@ -20,3 +20,4 @@ This analysis is part of the Udacity Data Analysis Nanodegree program and aims t
 - What is the total number of people in each neighborhood?
 - How many people No-Show in each neighborhood?
 - Are these features(Handcap,Scholarship,Hipertension,Diabetes,Alcoholism,Handcap,SMS_received) correlation for no-show? Explain .
+![4](https://user-images.githubusercontent.com/90741989/158641033-e6d39903-c1a5-4b0e-8a6d-3bc085ac6bf2.jpg)
