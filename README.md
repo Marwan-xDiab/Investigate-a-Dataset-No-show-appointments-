@@ -7,9 +7,13 @@ This analysis is part of the Udacity Data Analysis Nanodegree program and aims t
 - Dataset & Required Libraries (numpy, pandas ...)
 - Data Wrangling
 - Exploratory Data Analysis
+- Build ML Model
 - Conclusions
 ## Problem
 - A person makes a doctor appointment, receives all the instructions and no-show. 
+
+![Screenshot (342)](https://user-images.githubusercontent.com/90741989/182253368-e0156bef-c0fe-4ce2-824f-49dc3c36915a.png)
+
 ## Questions
 - The main question here, why the person no-show doctor appointment ?
 - What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
